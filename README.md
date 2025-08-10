@@ -10,7 +10,9 @@ DOMAIN: Data Analytics
 DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
+
 DESCRIPTION:
+
 We used PySpark to analyse the Reviews.csv dataset by:
 
 Loading and inspecting the data structure.
